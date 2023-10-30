@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi, I am Mahedee Hasan 👋
+I am a Microsoft MVP (9th times), programmer, software developer, software architect, consultant, author, researcher, technical blogger, technical speaker, trainer and learner. I have more than 15 years experience in the field of software design and development.
 <!--
 **mahedee/mahedee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
